@@ -1,0 +1,18 @@
+[submodule "apps/auth"]
+	path = apps/auth
+	url = https://github.com/poom-ytthpch/doc-charge-auth
+[submodule "apps/charger"]
+	path = apps/charger
+	url = https://github.com/poom-ytthpch/doc-charge-charger
+[submodule "apps/wallet"]
+	path = apps/wallet
+	url = https://github.com/poom-ytthpch/doc-charge-wallet
+[submodule "apps/gateway"]
+	path = apps/gateway
+	url = https://github.com/poom-ytthpch/doc-charge-gateway
+[submodule "client"]
+	path = client
+	url = https://github.com/poom-ytthpch/doc-charge-client
+[submodule "docker"]
+	path = docker
+	url = https://github.com/poom-ytthpch/doc-charge-docker
